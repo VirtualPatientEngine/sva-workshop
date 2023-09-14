@@ -24,7 +24,7 @@ here (just in case).
 
 > conda activate sva_demo
 
-2. Install the Kallisto package (popular for single cell analysis)
+2. Install the Kallisto package (popular for single-cell analysis)
 > conda install kallisto
 
 3. Install the kb-python package that consist of some bustools required to perform preprocessing of the dataset
@@ -55,4 +55,8 @@ Great, now you are done with the initial setup and preprocessing!
 
 1. You must have R and RStudio installed. If [not .....](https://rstudio-education.github.io/hopr/starting.html)
 
-2. Now open the DIY_scRNAseq script on your system (Rstudio) and simply follow the instrunctions in it.
+2. Now open the DIY_scRNAseq script on your system (Rstudio) and simply follow the instructions in it.
+
+## Sample input for the ML workflow
+
+ML_input.tsv.gz
